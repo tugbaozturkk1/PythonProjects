@@ -1,0 +1,4 @@
+tugba ozturk:60,70,80
+deniz ozturk:90,70,80
+cansu aydemir:90,90,90
+f f:f,f,
